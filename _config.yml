@@ -1,1 +1,6 @@
-theme: beautiful-jekyll
+title: Stuart Holland – Agentic AI Engineer
+description: AI Engineering Portfolio powered by LangGraph, Claude, RAG, and LangChain
+remote_theme: daattali/beautiful-jekyll@master
+
+plugins:
+  - jekyll-remote-theme
