@@ -1,14 +1,16 @@
-# About Me
+---
+layout: home
+title: Agentic AI Lab
+subtitle: Building autonomous agents and LLM apps with LangGraph, Claude, and LangChain
+---
 
-I'm an AI Engineer specializing in **LangGraph**, **Claude**, **RAG pipelines**, and **agentic systems**. With a background in cloud architecture and capital markets, I now focus on building powerful multi-agent workflows using tools like **CrewAI**, **LangChain**, **MCP**, and **n8n**.
+## About Me
 
-My portfolio includes production-ready AI assistants, trading agents, developer copilots, and autonomous research tools—all leveraging LLM DevOps, vector databases, and scalable infrastructure.
+Hi, I'm **Stuart Holland**, an AI Engineer specializing in **LLM orchestration**, **multi-agent systems**, and **retrieval-augmented generation (RAG)**.
 
-- 🔧 Languages: Python, TypeScript, SQL
-- ⚙️ Frameworks: LangChain, LangGraph, CrewAI, Claude Desktop
-- 🧠 AI Tooling: RAG, LLMOps, Vector DBs (Pinecone, FAISS)
-- ☁️ DevOps: Docker, GitHub Actions, n8n
-- 📈 Domain Focus: FinTech, AI Agents, Cloud Workflows
+I build agentic workflows using modern frameworks like **LangGraph**, **Claude**, **LangChain**, **CrewAI**, **Claude Desktop**, and **MCP**. With a strong foundation in software engineering, cloud deployment, and quantitative methods, I create secure, scalable, and intelligent AI systems. This portfolio showcases my applied work developing LLM-based assistants, developer automation agents, trading systems, and more.
+
+Explore the projects below to see how I combine large language models, vector databases, and multi-step reasoning into real-world AI applications.
 
 ---
 
@@ -24,6 +26,30 @@ My portfolio includes production-ready AI assistants, trading agents, developer 
 
 ---
 
-## Contact Me
+## Certifications
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/stuartholland/) or check out more projects on [GitHub](https://github.com/Crazy-Horse).
+- **AWS Certified Developer – Associate**
+- **AI Engineer Bootcamp 2025** – LangChain, Claude, LangGraph, Vector DBs, RAG, LLM Orchestration  
+- **Agentic Track** – CrewAI, Claude Desktop, AutoGen, LangGraph, MCP  
+- **Ultimate RAG Bootcamp** – LangChain, LangGraph, Pinecone, LangSmith  
+- **MCP + Claude + n8n Engineering** – Claude Desktop, Cursor, Flowise, LangChain, Python MCP SDK
+
+
+---
+
+## Technical Stack
+
+**Languages:** Python, Java, JavaScript, SQL  
+**Frameworks & Tools:** LangChain, LangGraph, CrewAI, Claude Desktop, AutoGen, Flowise, n8n, MCP  
+**AI & ML:** LLMs (Claude, GPT-4, Gemini), Vector DBs (Pinecone), RAG, Transformers, HuggingFace  
+**DevOps:** Docker, GitHub Actions, REST APIs, LangSmith, Streamlit  
+**Cloud:** AWS (Lambda, S3, CloudWatch), Azure (OpenAI, APIM)  
+**Other:** Kafka, Oracle DB, Redis, Spring Boot
+
+---
+
+## 📬 Contact Links
+
+- 🧠 GitHub: [@Crazy-Horse](https://github.com/Crazy-Horse)  
+- 💼 LinkedIn: [Stuart Holland](https://linkedin.com/in/stuartholland)  
+- 📧 Email: [stuartholland@sygmatechnology.com](mailto:stuar.tholland@sygmatechnology.com)
