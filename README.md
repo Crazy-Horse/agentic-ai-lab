@@ -1,0 +1,15 @@
+# 🧠 Agentic AI Lab
+
+Welcome to my portfolio of AI engineering projects focused on LangChain, LangGraph, Claude, RAG, and agentic workflows.
+
+## 🔗 Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [🧑‍💼 career-digital-twin](https://github.com/Crazy-Horse/career-digital-twin) | LLM-powered résumé + LinkedIn agent that represents you to recruiters | Claude, LangGraph, LangChain |
+| [📈 stock-picker-agent](https://github.com/Crazy-Horse/stock-picker-agent) | CrewAI stock researcher & picker | CrewAI, LangGraph, Pinecone |
+| [📊 multi-agent-research](https://github.com/Crazy-Horse/multi-agent-research) | Automated LangGraph team for deep topic research | LangGraph, LangChain |
+| [🤖 engineering-assistant](https://github.com/Crazy-Horse/engineering-assistant) | 4-agent engineering squad that writes, tests, and ships code | Claude, LangGraph, Docker |
+| [💰 trading-floor-agents](https://github.com/Crazy-Horse/trading-floor-agents) | Autonomous multi-agent trading system with MCP servers | Claude, MCP, Flowise, Pinecone |
+
+🎯 Built with RAG pipelines, vector DBs, LLM ops, and privacy-aware Claude agents.
